@@ -61,26 +61,6 @@ We provide:
 
 ---
 
-## 📂 Repository Structure
-
-```
-/docs         → Project scope, timelines, deliverables
-/sprints      → Sprint planning documents and retrospectives
-/assets       → Visuals, charts, reports
-/README.md    → Project overview and instructions
-```
-
----
-
-## 🤝 Contact
-
-**Alpha Integrated Management, Inc.**  
-🌐 [Website or LinkedIn]  
-📧 [Your Email]  
-📍 Based in Denton, TX
-
----
-
 ## 📣 License
 
 This project documentation is proprietary to Alpha Integrated Management, Inc. and the University of North Texas. Redistribution or reproduction without permission is not allowed.
